@@ -37,3 +37,13 @@ Pour $n$ variant de $N$ à $2$ :
 $$F_{n-1}(p)=F_n(p)-\dfrac{a_n}{(p-p_0)^n}$$
 
 $$a_{n-1}=F_{n-1}(p)(p-p_0)^{n-1}|_{p=p_0}$$
+
+## Le notebook
+
+La version disponible sur ce dépôt :
+
+[decomposition_en_elements_simples.ipynb](decomposition_en_elements_simples.ipynb)
+
+Une version est par ailleurs disponible sur Google Colaboratory :
+
+https://colab.research.google.com/drive/1A4cY4Jn0bs6mrR9nHLJFfoRX71Qcf5_s?usp=sharing
